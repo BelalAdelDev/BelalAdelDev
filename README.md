@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Belal ADel</h1>
+<h1 align="center">Hi 👋, I'm Belal Adel</h1>
 <h3 align="center">A passionate AI and Backend developer from Egypt</h3>
 
 - 🔭 I’m currently working on [Windows Scripting Manager](https://github.com/BelalAdelDev/Overseer)
